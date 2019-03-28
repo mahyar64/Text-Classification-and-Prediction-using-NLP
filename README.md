@@ -7,7 +7,7 @@ For runnign Machine Learning (ML) models on the data for classification, predict
 3.   Train the data
 4.   Evaluation & Prediction
 
-#note:
+# note:
 If you can not see the code (NLP_Text.ipynb) in your browser then use https://nbviewer.jupyter.org/ 
 copy the link in the search place and GO. There is a button to run the code directly in Google colab.
 
