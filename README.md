@@ -7,6 +7,10 @@ For runnign Machine Learning (ML) models on the data for classification, predict
 3.   Train the data
 4.   Evaluation & Prediction
 
+#note:
+If you can not see the code (NLP_Text.ipynb) in your browser then use https://nbviewer.jupyter.org/ 
+copy the link in the search place and GO. There is a button to run the code directly in Google colab.
+
 ###Question 
 Propose a model of ML to read the data from dataset, understand and make a prediction fomr the text which contains the chatbot/call conversation of a Bank costomers. There are two files, 'Training_Dataset.xlsx' for training and 'Validation_dataset.csv' for testing and eveluations. 
 
@@ -14,6 +18,7 @@ Propose a model of ML to read the data from dataset, understand and make a predi
 In the first step, I read and load data locally. For the implementation due to being independent from installing python libraries such as Tensorflow and Keras,
 I used colaboratory from Google which is a jupyter notebook file (https://colab.research.google.com). 
 Data can be read directly from colab page. 
+
 
 ##Cleaning and exploring the data-set 
 After reading the dataset, I had a look to see how many categories are in the data set and how many attribute is there for each category.
